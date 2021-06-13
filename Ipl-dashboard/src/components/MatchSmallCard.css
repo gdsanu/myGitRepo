@@ -1,0 +1,17 @@
+.MatchSmallCard{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #3d3d3d;
+}
+.match-result{
+    margin-top: 10px;
+}
+
+.won-card{
+    background-color: rgb(69, 180, 138);
+}
+
+.lost-card{
+    background-color: rgb(233, 91, 91);   
+}
